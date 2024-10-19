@@ -6,7 +6,7 @@ A simple Flask app to send emails using Google SMTP.
 - Send emails via a web form
 - Uses Google SMTP for email delivery
 - Input validation for email fields
-- 
+- Integration with Google for email sending
 ## Technologies Used
 
 - **Flask**: A lightweight WSGI web application framework in Python.
